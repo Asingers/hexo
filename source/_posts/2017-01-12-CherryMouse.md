@@ -1,12 +1,10 @@
 ---
 layout: post
-
-#event information
 title:  "Cherry JM-03鼠标"
-cover: "http://cloud9dic.b0.upaiyun.com/2017-01-04-20170104-ZZ000003-compressed.jpg"
 date:   2017-01-12
 author: "Aingers"
-tag: "数码"
+categories: life
+tags: "数码"
 ---
 
 2017年买的第一个小玩具.一直想换一个鼠标了,还有一个原因就是Mac 也缺一个鼠标.那么问题来了,我的需求是不要超过200块.因为我觉得以我现在的需要完全不需要DPI 太高的,不怎么玩游戏和重度操作,所以200块这个价位完全是可以满足的.有哪个既简单又实用呢?同时和 Mac 不能太冲突的.并且适合我这种小手的. 
