@@ -38,7 +38,7 @@ seo: false
 menu:
   home: /
   categories: categories
-  #about: /about
+  about: about
   archives: archives
   tags: tags
   #sitemap: /sitemap.xml
@@ -153,7 +153,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /images/avatar.jepg
 
 
 # Table Of Contents in the Sidebar
