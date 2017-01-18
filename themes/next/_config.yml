@@ -320,7 +320,7 @@ duoshuo_info:
   ua_enable: true
   admin_enable: true
   user_id: 6240255818487300865
-  #admin_nickname: Author
+  admin_nickname: 博主弟弟
 
 
 # Facebook SDK Support.
