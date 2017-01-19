@@ -268,7 +268,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: 9dic
+# duoshuo_shortname: 9dic
 
 # Disqus
 #disqus_shortname:
@@ -281,7 +281,7 @@ duoshuo_shortname: 9dic
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
+youyan_uid: 2124181
 
 # Baidu Share
 # Available value:
@@ -296,7 +296,7 @@ duoshuo_shortname: 9dic
 #add_this_id:
 
 # Share
-duoshuo_share: true
+duoshuo_share: false
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -317,7 +317,7 @@ duoshuo_share: true
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: true
   user_id: 6240255818487300865
   admin_nickname: 博主弟弟
