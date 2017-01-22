@@ -268,7 +268,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-# duoshuo_shortname: 9dic
+duoshuo_shortname: 9dichexo
 
 # Disqus
 #disqus_shortname:
@@ -281,7 +281,7 @@ mathjax:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-youyan_uid: 2124181
+# youyan_uid: 2124181
 
 # Baidu Share
 # Available value:
